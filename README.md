@@ -21,3 +21,7 @@ Provide input of variables for the following:
 1) Provide valuation of the call / put option
 2) Chart the option's profitability (stock price on x-axis, profitability on y-axis)
 3) Chart the option's valuation (stock price on x-axis, profitability on y-axis)
+
+# Plotting the Results of Black-Scholes
+![Vanilla_Dividend_Profitability](https://user-images.githubusercontent.com/13516076/78972819-a7831180-7adc-11ea-97b9-26c5615db242.png)
+![Vanilla_Dividend_Valuation](https://user-images.githubusercontent.com/13516076/78972833-b073e300-7adc-11ea-9ac9-5f9df1dd8e94.png)
